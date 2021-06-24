@@ -1,2 +1,2 @@
-# Car_Price_Prediction
-Supervised ML Regression model.
+## Note:-
+  * After analysis I found, that the data is imbalance.
