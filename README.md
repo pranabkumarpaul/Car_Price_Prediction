@@ -1,4 +1,2 @@
 ## Note:-
-  * After analysis I found, that the data is **Imbalance**.
-  * First I have created a **Base Model**.
-  * Then I handled Imbalance data using **SMOTE** and created one more model.
+  * The goal is to create a predictive model which can predict the Price of a Car as per the specifications.
